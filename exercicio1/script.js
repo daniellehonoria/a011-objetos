@@ -37,7 +37,7 @@ sacolao.push(
         disponibilidade : false
     }
 );
-
+console.log(sacolao)
     
 
 

@@ -18,7 +18,7 @@ const filme = {
 console.log("Primeiro ator: ", filme.elenco[0])
 
 //b) Qual o código para imprimir o nome do **último** ator/atriz?
-console.log("Último ator: ", filme.elenco[3])
+console.log(filme.elenco[(filme.elenco.length-1)])
 
 //c) Qual o código para exibir o array com **todas** as transmissões de hoje?
 console.log("As transmissões de hoje são", filme.transmissoesHoje)

@@ -12,7 +12,6 @@ const pokemon1 = {
             precisao: 100
 
         },
-
         {
             nome: "Folha navalha",
             dano: 45,
@@ -36,7 +35,6 @@ const pokemon2 = {
         }
     ]
 };
-
 
 /*b) No objeto original, adicione mais uma propriedade, chamada `ataques`. Esta propriedade deve guardar um **array** de objetos com a estrutura abaixo. Inicie a propriedade como um array vazio, e crie o objeto abaixo utilizando `**push()**`
 ```text
